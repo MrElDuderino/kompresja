@@ -1,4 +1,4 @@
-# Lista 2, wariant 2 - Dynamiczne kodowanie Huffmana
+# Lista 3, wariant 2: Kodowanie algorytmem LZW
 
 ## Sposób uruchomienia:
 
